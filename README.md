@@ -1,16 +1,55 @@
-### Hi there 👋
+<h1  align="center"> Hi,I'm Sevil👋 </h1>
+<p align="center">A passionate frontend developer</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="400"/>
+</div>
 
 <!--
-**SevilHs/SevilHs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SevilHs/SevilHs** is a ✨ _special_ ✨ 🫠 repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:--> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me :
+- 🔭 I successfully completed the course on Code Academy FrontEnd Developer Bootcamp
+- 🌱 I’m currently learning **JS,React**
+- 💬 Ask me about **JS,React**
+- 📫 How to reach me: **sevil.24sh@gmail.com**
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://sass-lang.com/guide/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"  title="SASS" alt="SASS" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
+  </a>&nbsp;
+  <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  </a>&nbsp;
+</div>
+<h3 align="left">📍 Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/sevil huseynova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sevil huseynova" height="30" width="40" /></a>
+<a href="https://instagram.com/_huseinova.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_huseinova.s" height="30" width="40" /></a>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SevilHs&layout=compact)
+
