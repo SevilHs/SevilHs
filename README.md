@@ -10,7 +10,7 @@
 Here are some ideas to get you started:--> 
 
 ### ✨ About Me :
-- 🔭 I successfully completed the course on Code Academy FrontEnd Developer Bootcamp
+- 🔭 I successfully completed the course on Code Academy Frontend Developer Bootcamp
 - 🌱 I’m currently learning **JS,React**
 - 💬 Ask me about **JS,React**
 - 📫 How to reach me: **sevil.24sh@gmail.com**
@@ -45,7 +45,8 @@ Here are some ideas to get you started:-->
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
   </a>&nbsp;
 </div>
-<h3 align="left">📍 Connect with me:</h3>
+
+### 📍 Connect with me:
 <p align="left">
 <a href="https://fb.com/sevil huseynova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sevil huseynova" height="30" width="40" /></a>
 <a href="https://instagram.com/_huseinova.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_huseinova.s" height="30" width="40" /></a>
