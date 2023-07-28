@@ -1,5 +1,4 @@
 <h1  align="center"> Hi,I'm Sevil👋 </h1>
-<p align="center">A passionate frontend developer</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="400"/>
 </div>
@@ -10,7 +9,6 @@
 Here are some ideas to get you started:--> 
 
 ### ✨ About Me :
-- 🔭 I successfully completed the course on Code Academy Frontend Developer Bootcamp
 - 🌱 I’m currently learning **JS,React**
 - 💬 Ask me about **JS,React**
 - 📫 How to reach me: **sevil.24sh@gmail.com**
