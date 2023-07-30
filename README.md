@@ -1,8 +1,4 @@
 <h1  align="center"> Hi,I'm Sevil👋 </h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="400"/>
-</div>
-
 <!--
 **SevilHs/SevilHs** is a ✨ _special_ ✨ 🫠 repository because its `README.md` (this file) appears on your GitHub profile.
 
