@@ -6,8 +6,8 @@
 Here are some ideas to get you started:--> 
 
 ### ✨ About Me :
-- 🌱 I’m currently learning **JS,React**
-- 💬 Ask me about **JS,React**
+- 🌱 I’m currently learning **JS,ReactJs,Redux**
+- 💬 Ask me about **JS,ReactJs**
 - 📫 How to reach me: **sevil.24sh@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
