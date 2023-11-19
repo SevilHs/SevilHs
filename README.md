@@ -6,7 +6,6 @@
 Here are some ideas to get you started:--> 
 
 ### ✨ About Me :
-- 🌱 I’m currently learning **JS,ReactJs,Redux**
 - 💬 Ask me about **JS,ReactJs**
 - 📫 How to reach me: **sevil.24sh@gmail.com**
 
