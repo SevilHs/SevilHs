@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:--> 
 
-### ✨ About Me :
+### About Me :
 - 💬 Ask me about **JS,ReactJs**
 - 📫 How to reach me: **sevil.24sh@gmail.com**
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
